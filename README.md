@@ -40,8 +40,8 @@ const App = () => (
 
 ## Props
 
-|               | default | description                    |     |     |
-| ------------- | ------- | ------------------------------ | --- | --- |
-| `itemsPerRow` | 4       | Number of item per row         |     |     |
-| `xSpace`      | 1       | Horizontal space between items |     |     |
-| `ySpace`      | 20      | Vertical Space between items   |     |     |
+|               | default | description                    |
+| ------------- | ------- | ------------------------------ | 
+| `itemsPerRow` | 4       | Number of item per row         |
+| `xSpace`      | 1       | Horizontal space between items |
+| `ySpace`      | 20      | Vertical Space between items   |
