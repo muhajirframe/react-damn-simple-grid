@@ -4,6 +4,7 @@
   "main": "dist/index.js",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
   "module": "dist/index.js",
+  "repository": "https://github.com/muhajirframe/react-damn-simple-grid",
   "files": [
     "dist"
   ],
