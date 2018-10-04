@@ -14,7 +14,7 @@ const Grid = styled("div")`
 Grid.defaultProps = {
   itemsPerRow: 4,
   horizontalSpace: 1,
-  verticalSpace: 0
+  verticalSpace: 20
 };
 
 export default Grid;
