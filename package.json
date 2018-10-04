@@ -1,6 +1,6 @@
 {
   "name": "react-damn-simple-grid",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "main": "dist/index.js",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
   "module": "dist/index.js",
